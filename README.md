@@ -1,6 +1,10 @@
 <h1 align="center">𝗞𝗔𝗩𝗜𝗬𝗔_𝗠𝗗 𝗩3 </h1>
 ## 💡 FOLLOW MY WHATSAPP GROUP & My Whatsapp Number
 
+
+</p> <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=𝗞𝗔𝗩𝗜𝗬𝗔_𝗠𝗗 𝗩3;MADE+BY+KAVIYA" alt="Typing SVG" /></a>
+
 <a href="https://chat.whatsapp.com/BaDLx6SUiQiCrF98Z5M2K2"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Group-blue" alt="📎 Join Our WhatsApp Group" width="350"></a>
 
 <br>
@@ -28,10 +32,6 @@ https://youtube.com/channel/UCNw73ZVz7O-uH6RYCIH8JFg?si=lq63J-RzZk0l6hkH
 https://slkaviyabro.neocities.org
 
 --------------------------------------------------------------
-
-***
-</p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=හිච්චා_පුතා;MADE+BY+KAVIYA" alt="Typing SVG" /></a>
 
 ***
 
