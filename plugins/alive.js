@@ -30,7 +30,7 @@ Reply Below Number
 1 || View Bot Status
 2 || Contact Bot Owner
 
-© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ 𝐊𝐀𝐕𝐈𝐘𝐀💚
 `;
 
         // Sending Image with Alive Message
@@ -65,7 +65,7 @@ Reply Below Number
 │ 🕒 Time: ${new Date().toLocaleTimeString()}
 ╰──────────────────◈
 
-© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ 𝐊𝐀𝐕𝐈𝐘𝐀💚
                         `;
                         await conn.sendMessage(from, { text: botStatus }, { quoted: userMsg });
                         break;
