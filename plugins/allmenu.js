@@ -95,7 +95,7 @@ let madeMenu = `
  ${menu.tools}
 ╰─────────────●●►
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ 𝐊𝐀𝐕𝐈𝐘𝐀💚 `
 
 return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/Jc9Zzww/ceee7893444e61d7.jpg`},caption:madeMenu},{quoted: mek})
 }catch(e){
